@@ -18,4 +18,5 @@
     * Node Js and React for UI building
     
 # Glimpse of my Project:
-https://github.com/r1999-ron/B2B-project/blob/master/UI.PNG
+
+![UI](https://user-images.githubusercontent.com/55063393/89125319-40f68900-d4fb-11ea-8e08-14ecd4704bdf.PNG)
