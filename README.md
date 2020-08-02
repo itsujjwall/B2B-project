@@ -16,3 +16,6 @@
     * Pycharm for creating Flask Api
     * Eclipse IDE for writing Java Program
     * Node Js and React for UI building
+    
+# Glimpse of my Project:
+https://github.com/r1999-ron/B2B-project/blob/master/UI.PNG
