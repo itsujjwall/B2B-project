@@ -20,3 +20,5 @@
 ### Glimpse of my Project:
 
 ![UI](https://user-images.githubusercontent.com/55063393/89125319-40f68900-d4fb-11ea-8e08-14ecd4704bdf.PNG)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/55063393/89126262-08a67900-d502-11ea-8a82-f75ceb28a7df.gif)
