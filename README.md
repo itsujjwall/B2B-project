@@ -17,6 +17,6 @@
     * Eclipse IDE for writing Java Program
     * Node Js and React for UI building
     
-# Glimpse of my Project:
+### Glimpse of my Project:
 
 ![UI](https://user-images.githubusercontent.com/55063393/89125319-40f68900-d4fb-11ea-8e08-14ecd4704bdf.PNG)
