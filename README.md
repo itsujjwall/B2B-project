@@ -9,7 +9,6 @@
   * Java,Jdbc and database sql concept for data loading and creating backend api
   * HTML,CSS and JavaScripts for building UI 
   * Node Js
-
 ### Software Used:
     * Anaconda and Jupyter Notebook
     * DialogFlow to integrate chatbot
