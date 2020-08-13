@@ -39,7 +39,7 @@
   * There should be variancy in training phrases
   * Do not use any special character while training variants
   * Keep minimum 15 variants for training that intent
-  * If we've similar types of intents, it is necessary to keep same number of variants in all those intents in order to avoid miss-firing.
+  * If we've similar types of intents, it is necessary to keep same number of variants in all those intents in order to avoid misfiring.
     
 ### Glimpse of my Project:
 
