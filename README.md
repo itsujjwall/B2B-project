@@ -20,6 +20,10 @@
 ### Glimpse of my Project:
 
 ![UI](https://user-images.githubusercontent.com/55063393/89125319-40f68900-d4fb-11ea-8e08-14ecd4704bdf.PNG)
+  * As part of the problem statement, the first partial payment amount of an invoice will be predicted.
+  * The Predicted Button is located towards the right over the invoices grid.
+  * Clicking on the Predicted button will populate the Predicted Payment Type and Predicted Amount column of the 
+    grid with the predicted values derived from the ML model.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/55063393/89126262-08a67900-d502-11ea-8a82-f75ceb28a7df.gif)
 
@@ -37,7 +41,7 @@ get paid in installments. These installments are known as partial payments.
 
 ## Proffessor Chat Bot-Digital Assistant
  * Most of us are faimiliar with the digital assistants such as Apple's Siri, Amazon's Alexa and so many more. Here we built our own chatbot Professor chatbot which is an AI
-   enabled Digital Assistan.
+   enabled Digital Assistant.
  * It is capable of answering questions and helping with the work with just like a knowledgeable colleague, or a reilable resource.
  * Before following up with the customers, a collections analyst has to prepare for the call
    where he’s required to search through heaps of data, pulling up reports from multiple
