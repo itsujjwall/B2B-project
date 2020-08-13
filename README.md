@@ -10,11 +10,11 @@
   * HTML,CSS and JavaScripts for building UI 
   * Node Js
 ### Software Used:
-    * Anaconda and Jupyter Notebook
-    * DialogFlow to integrate chatbot
-    * Pycharm for creating Flask Api
-    * Eclipse IDE for writing Java Program
-    * Node Js and React for UI building
+   * Anaconda and Jupyter Notebook
+   * DialogFlow to integrate chatbot
+   * Pycharm for creating Flask Api
+   * Eclipse IDE for writing Java Program
+   * Node Js and React for UI building
 
 ### Dialogflow Integration:
    https://dialogflow.cloud.google.com/#/agent/professorbot-tfqlcs/intents
