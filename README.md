@@ -18,6 +18,29 @@
 
 ### Dialogflow Integration:
    https://dialogflow.cloud.google.com/#/agent/professorbot-tfqlcs/intents
+   # What is Dialorgflow?
+    It is an end-to-end, build once deploy everywhere development suite for creating conversations interfaces  for websites, mobile applications,
+    popular managing platforms & IOT devices.
+   # Dialog-flow agents
+    Virtual agent that handles conversation with your end user
+   # Intents
+     Intension of the end user(the question that end user asked)
+   # Training Phases
+     In how many different ways one can ask a particular type of question is called a variant or training phase of that intent
+   # Context
+     Contexts are used to maintain a conversational flow with the end user.
+   # Entity
+     It defines the type of information we want to extract from the user input
+   # Respones
+     The answers our bot will be giving are the responses
+### Few Do's and Dont's
+  * There should be variancy in training phrases
+  * Do not use any special character while training variants
+  * Keep minimum 15 variants for training that intent
+  * If we've similar types of intents, it is necessary to keep same number of variants in all those intents in order to avoid miss-firing.
+
+### Important Fact about Entities: 
+  When any question is asked to dialogflow at the backend ML model gets enabled which gives a intent score to each questions.
     
 ### Glimpse of my Project:
 
