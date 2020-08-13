@@ -73,17 +73,17 @@ get paid in installments. These installments are known as partial payments.
    spent searching for a specific set of customer information(eg: Invoice details, open amount, payment history, deduction amount, etc) 
    before he makes a call. Our Professor Chat bot basically helps you to get quick answers and perform analytics to speed up this process.
  
- ### UI Development
-  # 1. Header Section
+ # UI Development
+  ### 1. Header Section
     * Account name logo <ABC Products> on the left,
     * A label strip with receivables dashboard text in the middle.
     * Professor button on the right -Clicking on the professor button will open up the Professor Chatbot Window.
- # AR Statistics Section
+ ### AR Statistics Section
     * Total Customer- Shows the total number of customers for the account
     * Total Open AR - Shows the total amount outstanding in the Account Receivables
     * Average Days Delay - Shows the Average Days Delay
     * Total Open Invoices - Gives the count of total open invoices
- # Analytics Section
+ ### Analytics Section
    * The section will display the account level analytics by using interactive charts.
    * The title of the chart is Total Amount By Company Code
    * The data is displayed in the form of Clickable horizontal bar charts
