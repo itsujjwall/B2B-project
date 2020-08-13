@@ -35,6 +35,18 @@ The buyer business needs to clear its amount due before the due date. However, i
 scenarios , the invoices are not always cleared ie. paid in full amount in one go. Instead, they
 get paid in installments. These installments are known as partial payments.
 
+## Proffessor Chat Bot-Digital Assistant
+ * Most of us are faimiliar with the digital assistants such as Apple's Siri, Amazon's Alexa and so many more. Here we built our own chatbot Professor chatbot which is an AI
+   enabled Digital Assistan.
+ * It is capable of answering questions and helping with the work with just like a knowledgeable colleague, or a reilable resource.
+ * Before following up with the customers, a collections analyst has to prepare for the call
+   where he’s required to search through heaps of data, pulling up reports from multiple
+   resources, analysing the data to find relevant information and so on.A lot of time is
+   spent searching for a specific set of customer information(eg: Invoice details, open amount, payment history, deduction amount, etc) 
+   before he makes a call. Our Professor Chat bot basically helps you to get quick answers and perform analytics to speed up this process.
+ 
+
+
 
 
 
