@@ -34,7 +34,7 @@
    # Respones
      The answers our bot will be giving are the responses.
    ### For reference purpose:
-     https://cloud.google.com/dialogflow/docs
+   https://cloud.google.com/dialogflow/docs
 ### Few Do's and Dont's
   * There should be variancy in training phrases
   * Do not use any special character while training variants
