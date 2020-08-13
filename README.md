@@ -91,7 +91,7 @@ get paid in installments. These installments are known as partial payments.
    * The title of the chart is Total Amount By Company Code
    * The data is displayed in the form of Clickable horizontal bar charts
    * By clicking on a particular company code, will display the data corresponding to that company code everywhere else on the UI.
-  ![analytics](https://user-images.githubusercontent.com/55063393/90161203-6e232100-ddb0-11ea-92e7-c83d56472e2b.PNG)
+    ![analytics](https://user-images.githubusercontent.com/55063393/90161203-6e232100-ddb0-11ea-92e7-c83d56472e2b.PNG)
 
 
 
