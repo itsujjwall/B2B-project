@@ -84,6 +84,8 @@ get paid in installments. These installments are known as partial payments.
     * Total Open AR - Shows the total amount outstanding in the Account Receivables
     * Average Days Delay - Shows the Average Days Delay
     * Total Open Invoices - Gives the count of total open invoices
+  ![AR](https://user-images.githubusercontent.com/55063393/90161016-2ac8b280-ddb0-11ea-8d50-2911c3275612.PNG)
+
  ### Analytics Section
    * The section will display the account level analytics by using interactive charts.
    * The title of the chart is Total Amount By Company Code
