@@ -78,6 +78,7 @@ get paid in installments. These installments are known as partial payments.
     * Account name logo <ABC Products> on the left,
     * A label strip with receivables dashboard text in the middle.
     * Professor button on the right -Clicking on the professor button will open up the Professor Chatbot Window.
+ ![header](https://user-images.githubusercontent.com/55063393/90160430-631bc100-ddaf-11ea-8430-392793046eec.png)
  ### AR Statistics Section
     * Total Customer- Shows the total number of customers for the account
     * Total Open AR - Shows the total amount outstanding in the Account Receivables
