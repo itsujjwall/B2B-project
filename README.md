@@ -31,7 +31,7 @@
      Contexts are used to maintain a conversational flow with the end user.
    # Entity
      It defines the type of information we want to extract from the user input.
-   # Respones
+   # Responses
      The answers our bot will be giving are the responses.
    ### For reference purpose:
    https://cloud.google.com/dialogflow/docs
