@@ -79,19 +79,21 @@ get paid in installments. These installments are known as partial payments.
     * A label strip with receivables dashboard text in the middle.
     * Professor button on the right -Clicking on the professor button will open up the Professor Chatbot Window.
  ![header](https://user-images.githubusercontent.com/55063393/90160430-631bc100-ddaf-11ea-8430-392793046eec.png)
- ### AR Statistics Section
+ ### 2. AR Statistics Section
     * Total Customer- Shows the total number of customers for the account
     * Total Open AR - Shows the total amount outstanding in the Account Receivables
     * Average Days Delay - Shows the Average Days Delay
     * Total Open Invoices - Gives the count of total open invoices
   ![AR](https://user-images.githubusercontent.com/55063393/90161016-2ac8b280-ddb0-11ea-8d50-2911c3275612.PNG)
 
- ### Analytics Section
+ ### 3. Analytics Section
    * The section will display the account level analytics by using interactive charts.
    * The title of the chart is Total Amount By Company Code
    * The data is displayed in the form of Clickable horizontal bar charts
    * By clicking on a particular company code, will display the data corresponding to that company code everywhere else on the UI.
     ![analytics](https://user-images.githubusercontent.com/55063393/90161203-6e232100-ddb0-11ea-92e7-c83d56472e2b.PNG)
+    
+
 
 
 
