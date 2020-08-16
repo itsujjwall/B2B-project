@@ -19,14 +19,14 @@
 ### Dialogflow Integration:
    https://dialogflow.cloud.google.com/#/agent/professorbot-tfqlcs/intents
    # Dialogflow
-    It is an end-to-end, build once deploy everywhere development suite for creating conversations interfaces  for websites, mobile applications,
+    It is an end-to-end, build once deploy everywhere development site for creating conversation interfaces for websites, mobile applications,
     popular managing platforms & IOT devices.
    # Dialogflow Agents
-    Virtual agent that handles conversation with your end user.
+     A Dialogflow agent is a virtual agent that handles conversations with your end-users. It is a natural language understanding module that understands the nuances of human        language. Dialogflow translates end-user text or audio during a conversation to structured data that your apps and services can understand.
    # Intents
-     Intension of the end user(the question that end user ask).
+     An intent categorizes an end-user's intention for one conversation turn. For each agent, we define many intents, where our combined intents can handle a complete       conversation. When an end-user writes or says something, referred to as an end-user expression, Dialogflow matches the end-user expression to the best intent in our agent.   Matching an intent is also known as intent classification.
    # Training Phases
-     In how many different ways one can ask a particular type of question is called a variant or training phase of that intent.
+    These are example phrases for what end-users might say. When an end-user expression resembles one of these phrases, Dialogflow matches the intent. We don't have to define every possible example, because Dialogflow's built-in machine learning expands on our list with other, similar phrases.
    # Context
      Contexts are used to maintain a conversational flow with the end user.
    # Entity
