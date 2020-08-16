@@ -22,7 +22,7 @@
     It is an end-to-end, build once deploy everywhere development site for creating conversation interfaces for websites, mobile applications,
     popular managing platforms & IOT devices.
    # Dialogflow Agents
-     A Dialogflow agent is a virtual agent that handles conversations with your end-users. It is a natural language understanding module that understands the nuances of human        language. Dialogflow translates end-user text or audio during a conversation to structured data that your apps and services can understand.
+     A Dialogflow agent is a virtual agent that handles conversations with our end-users. It is a natural language understanding module that understand the nuances of human        language. Dialogflow translates end-user text or audio during a conversation to structured data that your apps and services can understand.
    # Intents
      An intent categorizes an end-user's intention for one conversation turn. For each agent, we define many intents, where our combined intents can handle a complete       conversation. When an end-user writes or says something, referred to as an end-user expression, Dialogflow matches the end-user expression to the best intent in our agent.   Matching an intent is also known as intent classification.
    # Training Phases
